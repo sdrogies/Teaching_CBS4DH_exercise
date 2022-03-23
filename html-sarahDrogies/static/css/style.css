@@ -1,0 +1,40 @@
+p {
+font-family: monospace;
+}
+
+h3 {
+  font-family: helvetica;
+  color: pink;
+  font-weight: bold;
+}
+
+table, td {
+  border: 1px dotted #C1E1C1;
+  font-family: helvetica;
+  text-align:center;
+  border-collapse:collapse;
+}
+
+th {
+  font-style:italic;
+  background-color:pink;
+  font-family:monospace;
+}
+
+ul, ol {
+  font-family: monospace;
+}
+
+div {
+  margin: auto;
+width: 50%;
+padding: 10px;
+}
+
+.center{
+color:#C1E1C1;
+font-weight:bold;
+font-style:italic;
+text-decoration:underline;
+text-align:center;
+}
